@@ -1,0 +1,5 @@
+{
+  "name": "Tibia Coin Store",
+  "description": "A web system for buying and selling Tibia Coins with real-time character validation.",
+  "requestFramePermissions": []
+}
